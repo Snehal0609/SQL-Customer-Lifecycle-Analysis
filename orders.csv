@@ -1,0 +1,101 @@
+order_id,customer_id,order_date,total_amount,ship_name,ship_address,ship_city,ship_region,ship_postal_code,ship_country,shipped_date
+12,8,2017-01-14,1122,Martín Sommer,"C/ Araquil, 67",Madrid,null,28023,Spain,2017-01-25
+13,10,2017-01-14,960,Elizabeth Lincoln,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada,2017-01-18
+14,25,2017-01-14,88,Peter Franken,Berliner Platz 43,München,null,80805,Germany,2017-01-16
+15,21,2017-01-16,1809.75,Aria Cruz,"Rua Orós, 92",Sao Paulo,SP,05442-030,Brazil,2017-01-20
+16,27,2017-01-16,136.8,Paolo Accorti,Via Monte Bianco 34,Torino,null,10100,Italy,2017-01-28
+17,5,2017-01-17,3127,Christina Berglund,Berguvsvägen 8,Luleå,null,S-958 22,Sweden,2017-01-23
+18,16,2017-01-23,914.4,Elizabeth Brown,Berkeley Gardens 12 Brewery,London,null,WX1 6LT,UK,2017-02-13
+19,3,2017-01-24,452.9,Antonio Moreno,Mataderos 2312,México D.F.,null,5023,Mexico,2017-01-30
+20,13,2017-01-26,480,Francisco Chang,Sierras de Granada 9993,México D.F.,null,5022,Mexico,2017-01-31
+21,20,2017-01-30,1140,Roland Mendel,Kirchgasse 6,Graz,null,8010,Austria,2017-02-05
+22,22,2017-02-01,2384.8,Diego Roel,"C/ Moralzarzal, 86",Madrid,null,28034,Spain,2017-02-03
+23,45,2017-02-02,1057,Jaime Yorres,87 Polk St. Suite 5,San Francisco,CA,94117,USA,2017-02-06
+24,47,2017-02-02,896,Felipe Izquierdo,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela,2017-02-12
+25,52,2017-02-02,452.9,Alexander Feuer,Heerstr. 22,Leipzig,null,4179,Germany,2017-02-08
+26,51,2017-02-03,997,Jean Fresnière,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada,2017-02-13
+27,12,2017-02-05,88.5,Patricio Simpson,Cerrito 333,Buenos Aires,null,1010,Argentina,2017-02-10
+28,16,2017-02-05,801.1,Elizabeth Brown,Berkeley Gardens 12 Brewery,London,null,WX1 6LT,UK,2017-02-09
+29,26,2017-02-05,191.1,Carine Schmitt,"54, rue Royale",Nantes,null,44000,France,2017-02-20
+30,53,2017-02-07,114,Simon Crowther,South House 300 Queensbridge,London,null,SW7 1RZ,UK,2017-02-11
+31,3,2017-02-08,4985.5,Antonio Moreno,Mataderos 2312,México D.F.,null,5023,Mexico,2017-02-14
+32,48,2017-02-08,2984,Fran Wilson,89 Chiaroscuro Rd.,Portland,OR,97219,USA,2017-02-12
+33,15,2017-02-09,3304,Pedro Afonso,"Av. dos Lusíadas, 23",Sao Paulo,SP,05432-043,Brazil,2017-02-18
+34,35,2017-02-09,1850,Carlos Hernández,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela,2017-02-19
+35,36,2017-02-10,4529.8,Yoshi Latimer,City Center Plaza 516 Main St.,Elgin,OR,97827,USA,2017-02-19
+36,40,2017-02-11,1936,Daniel Tonini,"67, avenue de l'Europe",Versailles,null,78000,France,2017-02-17
+37,29,2017-02-12,914.4,Eduardo Saavedra,"Rambla de Cataluña, 23",Barcelona,null,8022,Spain,2017-03-05
+38,50,2017-02-12,570,Catherine Dewey,Rue Joseph-Bens 532,Bruxelles,null,B-1180,Belgium,2017-02-21
+39,20,2017-02-13,1632.15,Roland Mendel,Kirchgasse 6,Graz,null,8010,Austria,2017-02-23
+40,46,2017-02-13,670,Carlos González,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela,2017-02-25
+41,42,2017-02-14,1274,Yoshi Tannamuri,1900 Oak St.,Vancouver,BC,V3F 2K1,Canada,2017-02-15
+42,5,2017-02-15,928.75,Christina Berglund,Berguvsvägen 8,Luleå,null,S-958 22,Sweden,2017-02-18
+43,28,2017-02-16,1030.76,Lino Rodriguez,Jardim das rosas n. 32,Lisboa,null,1675,Portugal,2017-02-21
+44,13,2017-02-19,530.4,Francisco Chang,Sierras de Granada 9993,México D.F.,null,5022,Mexico,2017-03-01
+45,8,2017-02-20,959.2,Martín Sommer,"C/ Araquil, 67",Madrid,null,28023,Spain,2017-02-22
+46,17,2017-02-20,443.4,Sven Ottlieb,Walserweg 21,Aachen,null,52066,Germany,2017-02-27
+47,6,2017-02-21,1050.6,Hanna Moos,Forsterstr. 57,Mannheim,null,68306,Germany,2017-03-01
+48,7,2017-02-21,1586,Frédérique Citeaux,"24, place Kléber",Strasbourg,null,67000,France,2017-02-27
+49,27,2017-02-21,2262.5,Paolo Accorti,Via Monte Bianco 34,Torino,null,10100,Italy,2017-02-24
+50,10,2017-02-22,704,Elizabeth Lincoln,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada,2017-03-26
+51,25,2017-02-22,386.2,Peter Franken,Berliner Platz 43,München,null,80805,Germany,2017-03-02
+52,32,2017-02-22,1328,Howard Snyder,2732 Baker Blvd.,Eugene,OR,97403,USA,2017-03-01
+53,21,2017-02-23,2327,Aria Cruz,"Rua Orós, 92",Sao Paulo,SP,05442-030,Brazil,2017-03-04
+54,2,2017-02-24,2040,Ana Trujillo,Avda. de la Constitución 2222,México D.F.,null,5021,Mexico,2017-03-02
+55,11,2017-02-24,1112,Victoria Ashworth,Fauntleroy Circus,London,null,EC2 5NT,UK,2017-02-25
+56,33,2017-02-24,1764,Manuel Pereira,5ª Ave. Los Palos Grandes,Caracas,DF,1081,Venezuela,2017-03-06
+57,31,2017-02-25,479.75,André Fonseca,"Av. Brasil, 442",Campinas,SP,04876-786,Brazil,2017-03-03
+58,43,2017-02-25,848,John Steel,12 Orchestra Terrace,Walla Walla,WA,99362,USA,2017-03-07
+59,23,2017-02-26,5256.5,Martine Rancé,"184, chaussée de Tournai",Lille,null,59000,France,2017-03-21
+60,37,2017-02-27,240.4,Patricia McKenna,8 Johnstown Road,Cork,Co. Cork,null,Ireland,2017-03-02
+61,18,2017-02-28,1296,Janine Labrune,"67, rue des Cinquante Otages",Nantes,null,44000,France,2017-03-05
+62,34,2017-02-28,875,Mario Pontes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil,2017-03-01
+63,38,2017-02-28,2275.25,Helen Bennett,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK,2017-03-08
+64,16,2017-03-01,231.4,Elizabeth Brown,Berkeley Gardens 12 Brewery,London,null,WX1 6LT,UK,2017-03-04
+65,18,2017-03-02,112,Janine Labrune,"67, rue des Cinquante Otages",Nantes,null,44000,France,2017-03-03
+66,13,2017-03-03,5502.11,Francisco Chang,Sierras de Granada 9993,México D.F.,null,5022,Mexico,2017-03-05
+67,15,2017-03-03,925.1,Pedro Afonso,"Av. dos Lusíadas, 23",Sao Paulo,SP,05432-043,Brazil,2017-03-05
+68,43,2017-03-03,3900,John Steel,12 Orchestra Terrace,Walla Walla,WA,99362,USA,2017-03-10
+69,60,2017-03-03,1191.2,Isabel de Castro,Estrada da saúde n. 58,Lisboa,null,1756,Portugal,2017-03-12
+70,70,2017-03-03,1873.5,Jonas Bergulfsen,Erling Skakkes gate 78,Stavern,null,4110,Norway,2017-03-04
+71,47,2017-03-04,2048,Felipe Izquierdo,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela,2017-03-10
+72,52,2017-03-05,477,Alexander Feuer,Heerstr. 22,Leipzig,null,4179,Germany,2017-03-14
+73,73,2017-03-05,1051.2,Jytte Petersen,Vinbæltet 34,Kobenhavn,null,1734,Denmark,2017-03-12
+74,22,2017-03-06,2413.9,Diego Roel,"C/ Moralzarzal, 86",Madrid,null,28034,Spain,2017-03-10
+75,53,2017-03-06,1422,Simon Crowther,South House 300 Queensbridge,London,null,SW7 1RZ,UK,2017-03-13
+76,78,2017-03-08,155.4,Liu Wong,55 Grizzly Peak Rd.,Butte,MT,59801,USA,2017-03-14
+77,3,2017-03-09,2334,Antonio Moreno,Mataderos 2312,México D.F.,null,5023,Mexico,2017-03-13
+78,7,2017-03-09,3891,Frédérique Citeaux,"24, place Kléber",Strasbourg,null,67000,France,2017-03-15
+79,55,2017-03-09,326,Rene Phillips,2743 Bering St.,Anchorage,AK,99508,USA,2017-03-11
+80,59,2017-03-10,468,Georg Pipps,Geislweg 14,Salzburg,null,5020,Austria,2017-03-13
+81,20,2017-03-11,1075,Roland Mendel,Kirchgasse 6,Graz,null,8010,Austria,2017-03-19
+82,27,2017-03-11,2614.5,Paolo Accorti,Via Monte Bianco 34,Torino,null,10100,Italy,2017-03-18
+83,33,2017-03-11,1388.5,Manuel Pereira,5ª Ave. Los Palos Grandes,Caracas,DF,1081,Venezuela,2017-03-18
+84,50,2017-03-11,480,Catherine Dewey,Rue Joseph-Bens 532,Bruxelles,null,B-1180,Belgium,2017-03-16
+85,66,2017-03-11,997,Maurizio Moroni,Strada Provinciale 124,Reggio Emilia,null,42100,Italy,2017-03-21
+86,23,2017-03-12,864,Martine Rancé,"184, chaussée de Tournai",Lille,null,59000,France,2017-03-18
+87,45,2017-03-12,1299,Jaime Yorres,87 Polk St. Suite 5,San Francisco,CA,94117,USA,2017-03-18
+88,46,2017-03-12,17250,Carlos González,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela,2017-03-22
+89,8,2017-03-14,6164.9,Martín Sommer,"C/ Araquil, 67",Madrid,null,28023,Spain,2017-04-02
+90,51,2017-03-14,1832.8,Jean Fresnière,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada,2017-03-18
+91,69,2017-03-14,1838,Alejandra Camino,"Gran Vía, 1",Madrid,null,28001,Spain,2017-03-19
+92,56,2017-03-15,516.8,Henriette Pfalzheim,Mehrheimerstr. 369,Köln,null,50739,Germany,2017-03-22
+93,25,2017-03-16,93,Peter Franken,Berliner Platz 43,München,null,80805,Germany,2017-03-19
+94,37,2017-03-16,3600.73,Patricia McKenna,8 Johnstown Road,Cork,Co. Cork,null,Ireland,2017-03-24
+95,5,2017-03-17,68,Christina Berglund,Berguvsvägen 8,Luleå,null,S-958 22,Sweden,2017-03-24
+96,31,2017-03-18,6375,André Fonseca,"Av. Brasil, 442",Campinas,SP,04876-786,Brazil,2017-03-22
+97,62,2017-03-19,4210.5,Lúcia Carvalho,"Alameda dos Canàrios, 891",Sao Paulo,SP,05487-020,Brazil,2017-03-28
+98,17,2017-03-21,1823.8,Sven Ottlieb,Walserweg 21,Aachen,null,52066,Germany,2017-03-26
+99,42,2017-03-21,1140,Yoshi Tannamuri,1900 Oak St.,Vancouver,BC,V3F 2K1,Canada,2017-03-28
+100,57,2017-03-21,704,Marie Bertrand,"265, boulevard Charonne",Paris,null,75012,France,2017-04-22
+101,77,2017-03-21,740,Liz Nixon,89 Jefferson Way Suite 2,Portland,OR,97201,USA,2017-03-28
+102,81,2017-03-21,4157,Anabela Domingues,"Av. Inês de Castro, 414",Sao Paulo,SP,05634-030,Brazil,2017-04-16
+103,65,2017-03-22,858,Paula Wilson,2817 Milton Dr.,Albuquerque,NM,87110,USA,2017-03-29
+104,11,2017-03-23,320,Victoria Ashworth,Fauntleroy Circus,London,null,EC2 5NT,UK,2017-04-06
+105,21,2017-03-23,605,Aria Cruz,"Rua Orós, 92",Sao Paulo,SP,05442-030,Brazil,2017-03-30
+106,48,2017-03-23,636,Fran Wilson,89 Chiaroscuro Rd.,Portland,OR,97219,USA,2017-03-30
+107,75,2017-03-23,1650,Art Braunschweiger,P.O. Box 555,Lander,WY,82520,USA,2017-03-27
+108,58,2017-03-24,781,Guillermo Fernández,Calle Dr. Jorge Cash 321,México D.F.,null,5033,Mexico,2017-04-02
+109,64,2017-03-24,918,Sergio Gutiérrez,Av. del Libertador 900,Buenos Aires,null,1010,Argentina,2017-03-30
+110,72,2017-03-24,237.9,Hari Kumar,90 Wadhurst Rd.,London,null,OX15 4NB,UK,2017-04-01
+111,2,2017-03-25,3127,Ana Trujillo,Avda. de la Constitución 2222,México D.F.,null,5021,Mexico,2017-03-31

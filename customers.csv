@@ -1,0 +1,101 @@
+customer_id,email,full_name,address,city,region,postal_code,country,phone,registration_date,channel_id,first_order_id,first_order_date,last_order_id,last_order_date
+847,don.wilson@course.vertabelo.com,Don Wilson,275 Franklin Street,Dothan,Alabama,36303,USA,+1 334-677-3732,2024-05-09,1,null,null,null,null
+14,yang.wang@course.vertabelo.com,Yang Wang,Hauptstr. 29,Bern,null,3012,Switzerland,null,2017-01-17,1,null,null,null,null
+130,jason.kemp@course.vertabelo.com,Jason Kemp,1933 Everette Alley,Fort Lauderdale,Florida,33308,USA,+1 954-739-1284,2017-05-24,3,null,null,null,null
+790,noel.pick@course.vertabelo.com,Noel Pick,384 Taylor Street,Scarsdale,New York,10583,USA,+1 914-724-4728,2024-03-08,1,null,null,null,null
+68,michael.holz@course.vertabelo.com,Michael Holz,Grenzacherweg 237,Genève,null,1203,Switzerland,null,2017-03-17,1,128,2017-03-31,7872,2023-11-09
+1,maria.anders@course.vertabelo.com,Maria Anders,Obere Str. 57,Berlin,null,12209,Germany,030-0076545,2017-01-03,1,null,null,null,null
+2,ana.trujillo@course.vertabelo.com,Ana Trujillo,Avda. de la Constitución 2222,México D.F.,null,5021,Mexico,(5) 555-3745,2017-01-04,5,11,2017-01-14,10117,2024-04-01
+3,antonio.moreno@course.vertabelo.com,Antonio Moreno,Mataderos 2312,México D.F.,null,5023,Mexico,null,2017-01-05,1,19,2017-01-24,10899,2024-06-12
+4,thomas.hardy@course.vertabelo.com,Thomas Hardy,120 Hanover Sq.,London,null,WA1 1DP,UK,(171) 555-6750,2017-01-06,1,null,null,null,null
+5,christina.berglund@course.vertabelo.com,Christina Berglund,Berguvsvägen 8,Luleå,null,S-958 22,Sweden,0921-12 34 67,2017-01-07,1,17,2017-01-17,9212,2024-01-26
+6,hanna.moos@course.vertabelo.com,Hanna Moos,Forsterstr. 57,Mannheim,null,68306,Germany,0621-08924,2017-01-08,3,6,2017-01-10,7815,2023-11-06
+7,frederique.citeaux@course.vertabelo.com,Frédérique Citeaux,"24, place Kléber",Strasbourg,null,67000,France,88.60.15.32,2017-01-03,2,2,2017-01-06,11461,2024-08-28
+8,martin.sommer@course.vertabelo.com,Martín Sommer,"C/ Araquil, 67",Madrid,null,28023,Spain,(91) 555 91 99,2017-01-10,2,12,2017-01-14,9037,2024-01-14
+9,laurence.lebihan@course.vertabelo.com,Laurence Lebihan,"12, rue des Bouchers",Marseille,null,13008,France,91.24.45.41,2017-01-11,1,null,null,null,null
+10,elizabeth.lincoln@course.vertabelo.com,Elizabeth Lincoln,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada,(604) 555-3745,2017-01-12,1,13,2017-01-14,10659,2024-05-16
+11,victoria.ashworth@course.vertabelo.com,Victoria Ashworth,Fauntleroy Circus,London,null,EC2 5NT,UK,null,2016-12-19,1,1,2017-01-01,8912,2024-01-06
+12,patricio.simpson@course.vertabelo.com,Patricio Simpson,Cerrito 333,Buenos Aires,null,1010,Argentina,(1) 135-4892,2016-12-30,1,4,2017-01-07,7871,2023-11-09
+13,francisco.chang@course.vertabelo.com,Francisco Chang,Sierras de Granada 9993,México D.F.,null,5022,Mexico,(5) 555-7293,2017-01-16,1,20,2017-01-26,11554,2024-09-21
+15,pedro.afonso@course.vertabelo.com,Pedro Afonso,"Av. dos Lusíadas, 23",Sao Paulo,SP,05432-043,Brazil,null,2017-01-04,1,9,2017-01-11,7228,2018-12-11
+16,elizabeth.brown@course.vertabelo.com,Elizabeth Brown,Berkeley Gardens 12 Brewery,London,null,WX1 6LT,UK,(171) 555-9199,2017-01-19,1,18,2017-01-23,11560,2024-09-22
+17,sven.ottlieb@course.vertabelo.com,Sven Ottlieb,Walserweg 21,Aachen,null,52066,Germany,0241-059428,2016-12-23,2,3,2017-01-06,11594,2024-10-09
+18,janine.labrune@course.vertabelo.com,Janine Labrune,"67, rue des Cinquante Otages",Nantes,null,44000,France,40.67.89.89,2017-01-05,1,10,2017-01-13,10769,2024-05-29
+19,ann.devon@course.vertabelo.com,Ann Devon,35 King George,London,null,WX3 6FW,UK,(171) 555-3373,2017-01-22,1,null,null,null,null
+20,roland.mendel@course.vertabelo.com,Roland Mendel,Kirchgasse 6,Graz,null,8010,Austria,7675-3426,2017-01-23,1,21,2017-01-30,10633,2024-05-13
+21,aria.cruz@course.vertabelo.com,Aria Cruz,"Rua Orós, 92",Sao Paulo,SP,05442-030,Brazil,null,2017-01-08,1,15,2017-01-16,11595,2024-10-09
+664,laura.ballard@course.vertabelo.com,Laura Ballard,1179 Cityview Drive,Wayne,Pennsylvania,19087,USA,+1 610-503-8324,2018-12-29,1,null,null,null,null
+791,ricky.bosse@course.vertabelo.com,Ricky Bosse,759 Brannon Street,Los Angeles,California,90014,USA,+1 213-234-8211,2024-02-26,1,9761,2024-03-03,9761,2024-03-03
+792,alexandra.stillings@course.vertabelo.com,Alexandra Stillings,1905 Quiet Valley Lane,North Hollywood,California,91605,USA,+1 818-982-0940,2024-03-10,1,null,null,null,null
+793,howard.love@course.vertabelo.com,Howard Love,4059 Dennison Street,Stockton,California,95207,USA,+1 209-473-7877,2024-03-11,1,null,null,null,null
+794,alyce.beasley@course.vertabelo.com,Alyce Beasley,4450 Morgan Street,Pensacola,Florida,32501,USA,+1 850-501-1019,2024-03-12,1,9914,2024-03-14,10678,2024-05-17
+795,arthur.araujo@course.vertabelo.com,Arthur Araujo,289 Ridenour Street,Boca Raton,Florida,33486,USA,+1 786-215-2035,2024-03-13,1,null,null,null,null
+796,austin.hussey@course.vertabelo.com,Austin Hussey,2574 Rowes Lane,Elizabethtown,Kentucky,42701,USA,+1 270-613-7026,2024-03-14,1,null,null,null,null
+797,victor.davidson@course.vertabelo.com,Victor Davidson,4042 Par Drive,Bakersfield,California,93301,USA,+1 805-885-6133,2024-03-15,1,null,null,null,null
+798,katrina.lambright@course.vertabelo.com,Katrina Lambright,3621 Saints Alley,Tampa,Florida,33614,USA,+1 813-787-6847,2024-02-04,1,9681,2024-02-25,9681,2024-02-25
+799,bernice.priester@course.vertabelo.com,Bernice Priester,2922 Duke Lane,South River,New Jersey,8882,USA,+1 732-698-1694,2024-03-18,3,null,null,null,null
+800,jonathan.dawson@course.vertabelo.com,Jonathan Dawson,612 Stoney Lonesome Road,Scranton,Pennsylvania,18503,USA,+1 570-393-3483,2024-03-19,1,null,null,null,null
+801,david.mahoney@course.vertabelo.com,David Mahoney,2240 Dog Hill Lane,Salina,Kansas,67401,USA,+1 785-727-5269,2024-03-20,1,null,null,null,null
+802,jacqueline.castilleja@course.vertabelo.com,Jacqueline Castilleja,860 Vine Street,Chicago,Illinois,60631,USA,+1 847-630-4583,2024-03-21,1,null,null,null,null
+803,frank.mixson@course.vertabelo.com,Frank Mixson,2182 Sardis Sta,Fort Worth,Texas,76118,USA,+1 817-590-4127,2024-02-21,1,9827,2024-03-07,10917,2024-06-13
+804,james.upshaw@course.vertabelo.com,James Upshaw,3345 Scheuvront Drive,Ward,Colorado,80481,USA,+1 303-459-2038,2024-03-23,1,null,null,null,null
+805,mary.garcia@course.vertabelo.com,Mary Garcia,633 Meadowview Drive,Lovettsville,Virginia,22080,USA,+1 540-822-9344,2024-03-24,1,10138,2024-04-02,11578,2024-09-30
+806,josephine.oden@course.vertabelo.com,Josephine Oden,2645 Hart Ridge Road,Bay City,Michigan,48706,USA,+1 989-339-6078,2024-03-25,1,null,null,null,null
+807,jennifer.burton@course.vertabelo.com,Jennifer Burton,2495 Tenmile Road,North Billerica,Massachusetts,1862,USA,+1 781-718-3794,2024-03-26,1,10262,2024-04-11,11298,2024-07-30
+808,christine.hamilton@course.vertabelo.com,Christine Hamilton,3562 Boone Crockett Lane,Seattle,Washington,98109,USA,+1 360-386-9551,2024-03-27,1,null,null,null,null
+809,pia.steele@course.vertabelo.com,Pia Steele,679 Tenmile,Fredericksburg,Virginia,22401,USA,+1 757-897-5652,2024-03-29,1,null,null,null,null
+44,renate.messner@course.vertabelo.com,Renate Messner,Magazinweg 7,Frankfurt a.M.,null,60528,Germany,069-0245874,2017-02-19,1,null,null,null,null
+810,everett.little@course.vertabelo.com,Everett Little,3503 Golden Ridge Road,Schenectady,New York,12305,USA,+1 518-370-1322,2024-03-30,1,null,null,null,null
+811,michael.montes@course.vertabelo.com,Michael Montes,3292 Findley Avenue,East Grand Forks,North Dakota,56721,USA,+1 701-885-3477,2024-03-31,1,10325,2024-04-16,10325,2024-04-16
+812,edgar.allen@course.vertabelo.com,Edgar Allen,4544 Orchard Street,Burnsville,Minnesota,55337,USA,+1 952-894-1010,2024-04-01,1,10154,2024-04-03,10953,2024-06-17
+813,kevin.oconnell@course.vertabelo.com,Kevin Oconnell,908 Wayside Lane,San Francisco,California,94103,USA,+1 510-315-6324,2024-04-02,1,10340,2024-04-17,11058,2024-06-28
+814,thomas.helmick@course.vertabelo.com,Thomas Helmick,3083 Coffman Alley,Madisonville,Kentucky,42431,USA,+1 270-752-6673,2024-03-20,3,10071,2024-03-27,10954,2024-06-17
+815,michael.johnson@course.vertabelo.com,Michael Johnson,128 Goldleaf Lane,Secaucus,New Jersey,7094,USA,+1 201-608-4850,2024-04-04,1,null,null,null,null
+816,joseph.ramirez@course.vertabelo.com,Joseph Ramirez,1587 Ventura Drive,Santa Cruz,California,95062,USA,+1 831-475-6462,2024-04-05,1,10326,2024-04-16,11013,2024-06-23
+817,eric.james@course.vertabelo.com,Eric James,2348 Pine Street,Springdale,Pennsylvania,15144,USA,+1 724-274-6605,2024-03-15,1,10061,2024-03-26,11466,2024-08-28
+818,greg.smith@course.vertabelo.com,Greg Smith,4237 Sunrise Road,Las Vegas,Nevada,89107,USA,+1 702-822-6847,2024-03-20,3,10092,2024-03-29,11337,2024-08-06
+819,doreen.kimble@course.vertabelo.com,Doreen Kimble,4639 Hart Ridge Road,Saginaw,Michigan,48603,USA,+1 989-249-8309,2024-04-08,2,null,null,null,null
+820,milford.mejia@course.vertabelo.com,Milford Mejia,1165 Riverwood Drive,Chico,California,95926,USA,+1 530-364-5336,2024-03-09,4,10048,2024-03-25,11174,2024-07-14
+821,michael.williams@course.vertabelo.com,Michael Williams,4336 Railroad Street,Starke,Florida,32091,USA,+1 904-966-5036,2024-03-30,1,10178,2024-04-05,10518,2024-05-01
+822,ronald.yang@course.vertabelo.com,Ronald Yang,3518 Kyle Street,Grand Island,Nebraska,68801,USA,+1 308-380-8892,2024-04-12,1,null,null,null,null
+823,mary.laboy@course.vertabelo.com,Mary Laboy,70 Bassell Avenue,Little Rock,Arkansas,72210,USA,+1 501-733-0152,2024-04-07,1,10252,2024-04-10,10252,2024-04-10
+824,stephen.edington@course.vertabelo.com,Stephen Edington,3160 Green Avenue,San Jose,California,95131,USA,+1 510-859-4955,2024-04-14,1,null,null,null,null
+825,brittany.martinez@course.vertabelo.com,Brittany Martinez,2195 Twin Willow Lane,Wilmington,North Carolina,28403,USA,+1 910-452-9166,2024-04-15,3,null,null,null,null
+826,edward.hutchinson@course.vertabelo.com,Edward Hutchinson,717 Junkins Avenue,Fitzgerald,Georgia,31750,USA,+1 229-426-7333,2024-04-16,1,null,null,null,null
+827,juan.railsback@course.vertabelo.com,Juan Railsback,3001 Woodland Avenue,Metairie,Louisiana,70007,USA,+1 985-746-0267,2024-04-17,2,null,null,null,null
+828,shannon.olsen@course.vertabelo.com,Shannon Olsen,1987 Yorkie Lane,Richmond Hill,Georgia,31324,USA,+1 912-756-1258,2024-04-18,2,null,null,null,null
+829,christa.burpee@course.vertabelo.com,Christa Burpee,4075 Straford Park,Somerset,Kentucky,42501,USA,+1 606-677-8795,2024-03-28,2,10217,2024-04-08,11274,2024-07-26
+830,darren.byrd@course.vertabelo.com,Darren Byrd,1178 Eastland Avenue,Jackson,Mississippi,39212,USA,+1 601-371-2455,2024-04-21,2,null,null,null,null
+831,james.thompson@course.vertabelo.com,James Thompson,2720 Richland Avenue,Valley Lodge,Texas,77020,USA,+1 281-346-9272,2024-04-22,2,null,null,null,null
+22,diego.roel@course.vertabelo.com,Diego Roel,"C/ Moralzarzal, 86",Madrid,null,28034,Spain,(91) 555 55 93,2016-12-25,1,7,2017-01-10,11165,2024-07-14
+23,martine.rancé@course.vertabelo.com,Martine Rancé,"184, chaussée de Tournai",Lille,null,59000,France,20.16.10.17,2016-12-18,1,5,2017-01-07,11390,2024-08-16
+24,maria.larsson@course.vertabelo.com,Maria Larsson,Åkergatan 24,Bräcke,null,S-844 67,Sweden,null,2017-01-28,1,null,null,null,null
+25,peter.franken@course.vertabelo.com,Peter Franken,Berliner Platz 43,München,null,80805,Germany,089-0877451,2016-12-30,2,14,2017-01-14,7683,2023-10-29
+26,carine.schmitt@course.vertabelo.com,Carine Schmitt,"54, rue Royale",Nantes,null,44000,France,40.32.21.20,2016-12-21,1,8,2017-01-10,11617,2024-10-23
+27,paolo.accorti@course.vertabelo.com,Paolo Accorti,Via Monte Bianco 34,Torino,null,10100,Italy,011-4988261,2017-01-01,1,16,2017-01-16,10282,2024-04-14
+28,lino.rodriguez@course.vertabelo.com,Lino Rodriguez,Jardim das rosas n. 32,Lisboa,null,1675,Portugal,(1) 354-2535,2017-02-01,2,43,2017-02-16,8584,2023-12-19
+29,eduardo.saavedra@course.vertabelo.com,Eduardo Saavedra,"Rambla de Cataluña, 23",Barcelona,null,8022,Spain,(93) 203 4561,2017-02-02,3,37,2017-02-12,10837,2024-06-05
+30,jose.pedro.freyre@course.vertabelo.com,José Pedro Freyre,"C/ Romero, 33",Sevilla,null,41101,Spain,null,2017-02-03,1,null,null,null,null
+31,andre.fonseca@course.vertabelo.com,André Fonseca,"Av. Brasil, 442",Campinas,SP,04876-786,Brazil,null,2017-02-04,1,57,2017-02-25,7386,2018-12-20
+32,howard.snyder@course.vertabelo.com,Howard Snyder,2732 Baker Blvd.,Eugene,OR,97403,USA,null,2017-02-06,1,52,2017-02-22,11577,2024-09-29
+33,manuel.pereira@course.vertabelo.com,Manuel Pereira,5ª Ave. Los Palos Grandes,Caracas,DF,1081,Venezuela,(2) 283-3397,2017-02-07,3,56,2017-02-24,7249,2018-12-12
+34,mario.pontes@course.vertabelo.com,Mario Pontes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil,(21) 555-8765,2017-02-08,2,62,2017-02-28,11042,2024-06-27
+35,carlos.hernandez@course.vertabelo.com,Carlos Hernández,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela,(5) 555-1948,2017-02-09,1,34,2017-02-09,6523,2018-11-05
+36,yoshi.latimer@course.vertabelo.com,Yoshi Latimer,City Center Plaza 516 Main St.,Elgin,OR,97827,USA,(503) 555-2376,2017-02-10,1,35,2017-02-10,11342,2024-08-08
+37,patricia.mckenna@course.vertabelo.com,Patricia McKenna,8 Johnstown Road,Cork,Co. Cork,null,Ireland,2967 3333,2017-02-11,1,60,2017-02-27,8993,2024-01-12
+38,helen.bennett@course.vertabelo.com,Helen Bennett,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK,null,2017-02-12,1,63,2017-02-28,10749,2024-05-27
+39,philip.cramer@course.vertabelo.com,Philip Cramer,Maubelstr. 90,Brandenburg,null,14776,Germany,null,2017-02-13,1,null,null,null,null
+40,daniel.tonini@course.vertabelo.com,Daniel Tonini,"67, avenue de l'Europe",Versailles,null,78000,France,30.59.85.11,2017-02-08,1,36,2017-02-11,9223,2024-01-27
+41,annette.roulet@course.vertabelo.com,Annette Roulet,1 rue Alsace-Lorraine,Toulouse,null,31000,France,61.77.61.11,2017-02-15,1,null,null,null,null
+42,yoshi.tannamuri@course.vertabelo.com,Yoshi Tannamuri,1900 Oak St.,Vancouver,BC,V3F 2K1,Canada,(604) 555-7293,2017-02-12,1,41,2017-02-14,9431,2024-02-09
+43,john.steel@course.vertabelo.com,John Steel,12 Orchestra Terrace,Walla Walla,WA,99362,USA,(509) 555-6221,2017-02-18,2,58,2017-02-25,9094,2024-01-18
+45,jaime.yorres@course.vertabelo.com,Jaime Yorres,87 Polk St. Suite 5,San Francisco,CA,94117,USA,null,2017-01-15,1,23,2017-02-02,7749,2023-11-02
+46,carlos.gonzalez@course.vertabelo.com,Carlos González,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela,(9) 331-7256,2017-02-05,1,40,2017-02-13,11126,2024-07-09
+47,felipe.izquierdo@course.vertabelo.com,Felipe Izquierdo,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela,(8) 34-93-93,2017-01-13,1,24,2017-02-02,8771,2023-12-29
+48,fran.wilson@course.vertabelo.com,Fran Wilson,89 Chiaroscuro Rd.,Portland,OR,97219,USA,(503) 555-9646,2017-01-24,5,32,2017-02-08,11548,2024-09-19
+49,giovanni.rovelli@course.vertabelo.com,Giovanni Rovelli,Via Ludovico il Moro 22,Bergamo,null,24100,Italy,035-640231,2017-02-24,1,null,null,null,null
+50,catherine.dewey@course.vertabelo.com,Catherine Dewey,Rue Joseph-Bens 532,Bruxelles,null,B-1180,Belgium,(02) 201 24 68,2017-01-30,4,38,2017-02-12,7250,2018-12-12
+51,jean.fresniere@course.vertabelo.com,Jean Fresnière,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada,(514) 555-8055,2017-01-11,3,26,2017-02-03,8064,2023-11-20
+52,alexander.feuer@course.vertabelo.com,Alexander Feuer,Heerstr. 22,Leipzig,null,4179,Germany,null,2017-01-08,1,25,2017-02-02,11024,2024-06-25
+53,simon.crowther@course.vertabelo.com,Simon Crowther,South House 300 Queensbridge,London,null,SW7 1RZ,UK,(171) 555-2530,2017-01-17,1,30,2017-02-07,10720,2024-05-22
+54,yvonne.moncada@course.vertabelo.com,Yvonne Moncada,Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,null,1010,Argentina,(1) 135-5535,2017-03-02,1,122,2017-03-28,10925,2024-06-15
